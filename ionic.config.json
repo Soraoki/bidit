@@ -1,0 +1,8 @@
+{
+  "name": "bidIT",
+  "app_id": "c18a1564",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
